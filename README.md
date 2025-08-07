@@ -1,5 +1,5 @@
 
-https://thumbs.dreamstime.com/b/keyboard-programming-code-binary-code-keyboard-programming-code-binary-numbers-background-117647029.jpg
+
 <h1 align="center">Hi 👋, I'm MD Nahid Bhuyaan</h1>
 <h3 align="center">A passionate Full Stack And Ai developer From Bangladesh</h3>
 
