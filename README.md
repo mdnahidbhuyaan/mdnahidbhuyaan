@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mdnahidbhuyaan" target="blank"><img src="https://img.shields.io/twitter/follow/mdnahidbhuyaan?logo=twitter&style=for-the-badge" alt="mdnahidbhuyaan" /></a> </p>
 
-- 🌱 I’m currently learning **Ai Engineering**
+- 🌱 Currently i am learning AI Engineering
 
 - 💬 Ask me about **Mern Android**
 
