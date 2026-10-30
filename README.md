@@ -24,9 +24,7 @@ I'm a passionate MERN Stack Developer focused on building modern, responsive, an
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+
 
 ### 📌 Featured Project
 
