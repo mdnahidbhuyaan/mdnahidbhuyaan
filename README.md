@@ -1,23 +1,51 @@
-<h1 align="center">Hi 👋, I'm MD Nahid Bhuyaan</h1>
-<h3 align="center">A MERN Stack developer</h3>
+# 👋 Hi, I'm Nahid Buiyan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnahidbhuyaan&label=Profile%20views&color=0e75b6&style=flat" alt="mdnahidbhuyaan" /> </p>
+### 💻 MERN Stack Developer | Full-Stack Web Developer
 
-<p align="left"> <a href="https://twitter.com/mdnahidbhuyaan" target="blank"><img src="https://img.shields.io/twitter/follow/mdnahidbhuyaan?logo=twitter&style=for-the-badge" alt="mdnahidbhuyaan" /></a> </p>
+I'm a passionate MERN Stack Developer focused on building modern, responsive, and user-friendly web applications.
 
-- 🌱 Currently, I am learning AI Engineering
+### 🚀 About Me
 
-- 💬 Ask me about **Mern Android**
+- 🔭 Currently working on a Full-Stack E-Commerce Application.
+- 🌱 Learning React.js, Node.js, Express.js, and MongoDB.
+- 💡 Interested in Backend Development, REST APIs, and Database Management.
+- 🎯 My goal is to become a skilled Software Developer.
 
-- 📫 How to reach me **mdnahidbuiyan14@gmail.com**
+### 🛠️ Tech Stack
 
-- ⚡ Fun fact **I am funny**
+**Frontend**
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- Redux Toolkit
+- Tailwind CSS
 
-<h3 align="left">Connect with me:</h3>
+**Backend**
+- Node.js
+- Express.js
+- MongoDB
+- REST API
 
+**Tools**
+- Git & GitHub
+- Postman
+- Axios
+- Cloudinary
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnahidbhuyaan&show_icons=true&locale=en&layout=compact" alt="mdnahidbhuyaan" /></p>
+### 📌 Featured Project
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnahidbhuyaan&show_icons=true&locale=en" alt="mdnahidbhuyaan" /></p>
+**E-Commerce with Admin Panel**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnahidbhuyaan&" alt="mdnahidbhuyaan" /></p>
+A full-stack e-commerce application featuring:
+- User Authentication
+- Admin Dashboard
+- Product Management (CRUD)
+- Shopping Cart
+- Image Upload with Cloudinary
+
+🔗 [View Project](https://github.com/mdnahidbhuyaan/ecommerce-with-adminpanel)
+
+### 🤝 Connect With Me
+
+- GitHub: [mdnahidbhuyaan](https://github.com/mdnahidbhuyaan)
+- LinkedIn: [Connect with me](https://linkedin.com/in/mdnahid0011/)
+
