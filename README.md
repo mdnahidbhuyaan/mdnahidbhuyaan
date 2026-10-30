@@ -11,25 +11,19 @@ I'm a passionate MERN Stack Developer focused on building modern, responsive, an
 - 💡 Interested in Backend Development, REST APIs, and Database Management.
 - 🎯 My goal is to become a skilled Software Developer.
 
-### 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-**Frontend**
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js
-- Redux Toolkit
-- Tailwind CSS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
+</p>
 
-**Backend**
-- Node.js
-- Express.js
-- MongoDB
-- REST API
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-**Tools**
-- Git & GitHub
-- Postman
-- Axios
-- Cloudinary
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
 
 ### 📌 Featured Project
 
